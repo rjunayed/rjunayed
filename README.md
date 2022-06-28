@@ -1,8 +1,8 @@
 # Junayed Hoque
-## Aircraft Mechanic
+## Junior Aircraft Mechanic
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=0072b1&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/junayed-hoque)
 
-Hi 👋 I am Junayed Hoque! I a Junior Aircraft Mechanic. I love working with aircraft. 
+Hi 👋 I am Junayed Hoque! I am Junior Aircraft Mechanic. I love working with aircraft. 
 
 ## Portfolio
 
